@@ -14,9 +14,20 @@
 ### Определение надсистемы (среды функционирования) 
 
 * IDEF0-диаграмма (блок А0): 
-![j](https://github.com/GermanChebykin/GermanChebykin.github.io/blob/master/model(1).png)
+
+![j](https://github.com/GermanChebykin/GermanChebykin.github.io/blob/master/model.png)
 
 * IDEF0-диаграмма (блоки A1, A2, A3) 
 
+![j](https://github.com/GermanChebykin/GermanChebykin.github.io/blob/master/model(1).png)
+
+## Лабораторная работа №3
+### Определение автоматизируемых видов деятельности
+
+* DFD-диаграмма "Формирование отчета" (блок A3-01) 
+
 ![j](https://github.com/GermanChebykin/GermanChebykin.github.io/blob/master/model(2).png)
+
+### Описание участников автоматизируемой деятельности 
+
 ![j](http://www.plantuml.com/plantuml/png/hP4n2i8m58RtdYAZ7Ng13jAh2BgfWzQz1As3cmUe289hq8Q6IDCh_Ez6_bHN1qk7v97l_T_ZGR9jFjlakzKoId534DqVAmUqSF0mgKgIgPhWYe06DKpVi0eTauLesRFn8WenHznX-GXuiFeHr8iK7yJAPVvHAz7eg1dYtsh5nFExMGD3Xw5HHvImQ8VgPpcX9ZnIPyR3Css97679syLHjbZF-O5l)
