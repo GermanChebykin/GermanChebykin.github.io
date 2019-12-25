@@ -1,0 +1,22 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class Window as "Экранная форма"
+
+class Hod as "Перейти в определенноё место по карте"
+class Poisk as "Найти аудиторию"
+
+Entity <|-- Window 
+
+Window <|-- Hod
+Window <|-- Poisk
+
+hide members
+hide circle
+hide methods
+@enduml
