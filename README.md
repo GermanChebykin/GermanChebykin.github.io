@@ -106,21 +106,21 @@ ERD для всех потоков: [код](https://github.com/GermanChebykin/G
 <th>Данных</th>
 <th>UFP</th>
 </tr>
-<tr><td>А0</td><td>Деятельность организации по подбору персонала в области IT сектора</td><td></td><td></td><td></td></tr>
-<tr><td>А1</td><td>Поступление на найм IT-персонала</td><td>2</td><td>1</td><td>15</td></tr>
-<tr><td>А2</td><td>Продвижение вакансии</td><td>3</td><td>1</td><td>19</td></tr>
-<tr><td>А3</td><td>Поиск подходящего кандидата</td><td>2</td><td>2</td><td>22</td></tr>
-<tr><td>А4</td><td>Оценка работы сотрудников</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td> </td><td> </td><td> </td><td> </td><td>56</td></tr>  
+<tr><td>А0</td><td>Создание и эксплуатация 3D тура</td><td></td><td></td><td></td></tr>
+<tr><td>А1</td><td>Создание 360 фотографий</td><td></td><td></td><td></td></tr>
+<tr><td>А2</td><td>Реализация 3D тура</td><td>3</td><td>2</td><td>26</td></tr>
+<tr><td>А3</td><td>Эксплуатация 3D тура</td><td></td><td></td><td></td></tr>
+<tr><td>А4</td><td>Завершение эксплуатации</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td> </td><td> </td><td> </td><td> </td><td>26</td></tr>  
 </table>
 
 <table border="1">
 <caption>Расчет сложности разработки методом FPA/IFPUG</caption>
-<tr><td>VAF:</td><td>1,35</td></tr>
-<tr><td>UFP:</td><td>56</td></tr>
-<tr><td>DFP:</td><td>76</td></tr>
-<tr><td>SLOC:</td><td>3780</td></tr>
-<tr><td>KLOC:</td><td>4</td></tr>
+<tr><td>VAF:</td><td>1,25</td></tr>
+<tr><td>UFP:</td><td>26</td></tr>
+<tr><td>DFP:</td><td>33</td></tr>
+<tr><td>SLOC:</td><td>1625</td></tr>
+<tr><td>KLOC:</td><td>2</td></tr>
 </table>
 
 <table border="1">
@@ -128,7 +128,7 @@ ERD для всех потоков: [код](https://github.com/GermanChebykin/G
 <tr><td>SF:</td><td>18,97</td></tr>
 <tr><td>E:</td><td>1,10</td></tr>
 <tr><td>EM:</td><td>1,00</td></tr>
-<tr><td>PM:</td><td>13 ч/мес</td></tr>
-<tr><td>TDEV:</td><td>8 мес</td></tr>
+<tr><td>PM:</td><td>5 ч/мес</td></tr>
+<tr><td>TDEV:</td><td>6 мес</td></tr>
 </table>
 
